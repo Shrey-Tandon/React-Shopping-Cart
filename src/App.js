@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-//feature 1
+//feature 1 --
 
 function App() {
   return (
