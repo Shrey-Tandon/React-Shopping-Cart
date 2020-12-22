@@ -193,7 +193,7 @@ input {
 }
 /* Product Details */
 .product-details {
-  display: flex;
+  display:flex;
   flex-wrap: wrap;
   justify-content: space-between;
   max-height: 96vh;
